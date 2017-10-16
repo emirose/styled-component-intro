@@ -3,7 +3,6 @@ import { css } from 'emotion';
 import media from '../../../foundation/mediaQueries';
 
 const buttonBase = (props) => {
-  console.log("Props", props)
   return css`
      display: block;
      width: 100%;
