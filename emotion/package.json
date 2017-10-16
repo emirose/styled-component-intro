@@ -1,0 +1,24 @@
+{
+  "name": "emotion-intro",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "storybook": "start-storybook -p 6006",
+    "build-storybook": "build-storybook"
+  },
+  "dependencies": {
+    "@storybook/addon-actions": "^3.2.12",
+    "@storybook/addon-centered": "^3.2.12",
+    "@storybook/addon-info": "^3.2.12",
+    "@storybook/addon-knobs": "^3.2.12",
+    "@storybook/addon-links": "^3.2.12",
+    "@storybook/react": "^3.2.12",
+    "babel-plugin-emotion": "^8.0.6",
+    "emotion": "^8.0.6",
+    "emotion-theming": "^8.0.4",
+    "react": "^16.0.0",
+    "react-dom": "^16.0.0",
+    "react-emotion": "^8.0.6"
+  }
+}
