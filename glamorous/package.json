@@ -1,0 +1,22 @@
+{
+  "name": "glamorous-intro",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "storybook": "start-storybook -p 6006",
+    "build-storybook": "build-storybook"
+  },
+  "dependencies": {
+    "@storybook/addon-actions": "^3.2.12",
+    "@storybook/addon-centered": "^3.2.12",
+    "@storybook/addon-info": "^3.2.12",
+    "@storybook/addon-knobs": "^3.2.12",
+    "@storybook/addon-links": "^3.2.12",
+    "@storybook/react": "^3.2.12",
+    "glamor": "^2.20.40",
+    "glamorous": "^4.9.7",
+    "react": "^16.0.0",
+    "react-dom": "^16.0.0"
+  }
+}
